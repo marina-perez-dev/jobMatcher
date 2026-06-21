@@ -330,7 +330,7 @@ jobMatcher/
 │
 ├── services/
 │   ├── job_service.py
-│   ├── rome_service.py !!
+│   ├── rome_service.py
 │   ├── skill_service.py
 │   └── wishlist_service.py
 │
@@ -368,7 +368,7 @@ jobMatcher/
 
 ## Auteur
 
-Projet développé par **\[Ton Nom]**
+Projet développé par **Marina PEREZ**
 
 ***
 
