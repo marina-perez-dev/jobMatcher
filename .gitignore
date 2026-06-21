@@ -1,0 +1,4 @@
+.env
+.venv_job_matcher/
+__pycache__/
+
