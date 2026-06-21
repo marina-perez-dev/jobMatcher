@@ -1,0 +1,1176 @@
+[
+    {
+        "id": "209DQXN",
+        "title": "Hôte / Hôtesse de caisse (H/F)",
+        "description": "Spécialiste de la fête, notre enseigne Fêter & Recevoir accompagne ses clients dans tous leurs moments de joie : anniversaires, mariages, événements et célébrations en tout genre \n\nTravailler chez nous, c'est évoluer dans un univers coloré, dynamique et convivial, où la bonne humeur fait partie du quotidien. Nous attachons une grande importance à l'accueil client et à l'esprit d'équipe, pour faire de chaque visite en magasin une expérience unique.\n\nVos missions :\n\nAccueillir et renseigner les clients avec professionnalisme et convivialité.\nAssurer les opérations d'encaissement avec rigueur et rapidité.\nGarantir la satisfaction client grâce à la qualité de votre service.\nParticiper à la bonne tenue de votre espace de travail.\n\nOrganisation du travail :\nAmplitude du magasin : 10h00 - 19h00\nCDI 35h par semaine\nPause déjeuner : 1h30\n2 jours de repos : dimanche + 1 jour en semaine\n\nProfil recherché :\n\nExpérience exigée sur un poste similaire \nSens du service client et bon relationnel\nDynamisme, créativité et esprit d'équipe",
+        "dates": {
+            "created": "2026-06-03T10:29:36.544Z",
+            "updated": "2026-06-03T10:29:36.544Z"
+        },
+        "location": {
+            "label": "06 - CANNES",
+            "city_code": "06029",
+            "postal_code": "06150",
+            "coordinates": {
+                "lat": 43.549112,
+                "lon": 6.981444
+            }
+        },
+        "job": {
+            "rome_code": "D1505",
+            "rome_label": "Hôte / Hôtesse de caisse",
+            "appellation": "Hôte / Hôtesse de caisse"
+        },
+        "company": {
+            "name": "Feter et Recevoir",
+            "description": null,
+            "logo": null,
+            "website": null,
+            "adapted": false
+        },
+        "contract": {
+            "type": "CDI",
+            "label": "CDI",
+            "nature": "Contrat travail",
+            "qualification": "Employé qualifié"
+        },
+        "experience": {
+            "required": true,
+            "label": "1 An(s) - CAISSE ",
+            "comment": "CAISSE "
+        },
+        "salary": {
+            "label": "Mensuel de 1868.00 Euros sur 12 mois",
+            "comment": null,
+            "extras": []
+        },
+        "worktime": {
+            "raw": "35H/semaine\nTravail en journée",
+            "label": "Temps plein"
+        },
+        "skills": [
+            {
+                "code": "100341",
+                "label": "Procédures d'encaissement",
+                "required": true
+            },
+            {
+                "code": "102995",
+                "label": "Règles de tenue de caisse",
+                "required": true
+            },
+            {
+                "code": "300303",
+                "label": "Procéder à l'encaissement",
+                "required": true
+            }
+        ],
+        "soft_skills": [],
+        "contact": {
+            "name": "Agence France Travail CANNES",
+            "address": "156 AV MICHEL JOURDAN                  06150 Cannes",
+            "application_url": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/209DQXN"
+        },
+        "agency": {
+            "email_or_url": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/209DQXN"
+        },
+        "meta": {
+            "origineOffer": {
+                "origine": "1",
+                "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/209DQXN"
+            },
+            "positions": 1,
+            "handicap_accessible": false,
+            "remote_policy": null,
+            "sector": "Autres commerces de détail en magasin non spécialisé",
+            "company_size": "1 ou 2 salariés",
+            "naf_code": "47.19B",
+            "urgent": false
+        },
+        "status": "applied"
+    },
+    {
+        "id": "6668949",
+        "title": "CAISSIER - HÔTE DE CAISSE (H/F)",
+        "description": "Acteur(trice) de la satisfaction/Fidélisation clients\nVous êtes en charge de l'accueil des clients au sein des différents points de contacts dans le point de vente (Accueil, encaissement, carte de fidélité, retours, accueil téléphonique).\nVous êtes une femme ou un homme doté(e) d'un excellent relationnel et d'une capacité d'écoute, vous vous assurez de la satisfaction des clients lors de leurs parcours d'achat et n'hésitez pas à faire remonter leurs remarques dans un souci d'amélioration continue.\nVous êtes partie prenante dans le parcours d'achats des clients et n'hésitez pas à les informer sur les différents services du magasin et leur proposer les plus adaptés en fonction de leurs besoins et de leurs achats lors de leur passage en caisses.\nVous assurez l'enregistrement des articles et effectuez l'encaissement final des achats. Responsable de votre fonds de caisse, vous maîtrisez toutes les procédures liées au bon fonctionnement de la caisse.\n\n\nSens du service client, souriant(e), vous assurez avec une grande rigueur vos missions, vous avez déjà éprouvé ces qualités dans une expérience significative sur un poste similaire ou avez l'envie d'offrir le meilleur des accueils à nos clients.\n\nContrat : CDI\nNiveau d'expérience minimum requis : Débutant\nNiveau d'études minimum requis : Non diplômé\nTemps de travail : Temps plein\nStatut : Non cadre",
+        "dates": {
+            "created": "2025-12-16T21:35:59.000Z",
+            "updated": "2026-05-19T07:09:09.000Z"
+        },
+        "location": {
+            "label": "06 - Saint-Laurent-du-Var",
+            "city_code": "06123",
+            "postal_code": "06700",
+            "coordinates": {
+                "lat": 43.673473,
+                "lon": 7.190815
+            }
+        },
+        "job": {
+            "rome_code": "D1505",
+            "rome_label": "Hôte / Hôtesse de caisse",
+            "appellation": "Hôte / Hôtesse de caisse services clients"
+        },
+        "company": {
+            "name": "Bricomarché",
+            "description": null,
+            "logo": null,
+            "website": null,
+            "adapted": null
+        },
+        "contract": {
+            "type": "CDI",
+            "label": "CDI",
+            "nature": "Contrat travail",
+            "qualification": null
+        },
+        "experience": {
+            "required": true,
+            "label": "Expérience exigée",
+            "comment": null
+        },
+        "salary": {
+            "label": null,
+            "comment": null,
+            "extras": []
+        },
+        "worktime": {
+            "raw": "\nTravail en journée",
+            "label": null
+        },
+        "skills": [],
+        "soft_skills": [],
+        "contact": {
+            "name": null,
+            "address": "",
+            "application_url": null
+        },
+        "agency": {
+            "email_or_url": null
+        },
+        "meta": {
+            "origineOffer": {
+                "origine": "2",
+                "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6668949",
+                "partenaires": [
+                    {
+                        "nom": "DISTRIJOB",
+                        "url": "https://www.distrijob.fr/offre-emploi/ido/2491987.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+                        "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+                    }
+                ]
+            },
+            "positions": 1,
+            "handicap_accessible": null,
+            "remote_policy": null,
+            "sector": "'Commerce de détail de quincaillerie, peintures et verres en grandes surfaces (400 m² et plus)');",
+            "company_size": null,
+            "naf_code": "47.52B",
+            "urgent": null
+        },
+        "status": "applied"
+    },
+    {
+        "id": "2535693",
+        "title": "Caissier / Caissière (H/F)",
+        "description": "Description du poste Conseiller(ère) de Vente - Puériculture (H/F)\nAu cœur du magasin, vous êtes le premier contact des familles.\nVotre rôle est simple et essentiel : accueillir, conseiller et accompagner chaque client avec professionnalisme et bienveillance, tout en contribuant à la performance du point de vente.\nVotre rôle\nVous garantissez une expérience client positive, rassurante et fluide.\nVous contribuez au chiffre d'affaires du magasin tout en veillant au respect des standards de qualité et des procédures internes.\nVous représentez l'image d'Aubert au quotidien.\nVos missions\nAccueil & relation client***Accueillir chaque client avec amabilité et disponibilité.\n* Identifier les besoins et apporter un conseil personnalisé.\n* Promouvoir les produits et services : liste de naissance, financement, livraison, SAV.\n* Assurer un accueil téléphonique professionnel.\n* Fidéliser la clientèle par la qualité de l'accompagnement.\nVente & performance commerciale***Participer activement au développement du chiffre d'affaires.\n* Mettre en avant les produits et offres commerciales.\n* Adopter une posture professionnelle adaptée à l'univers de la puériculture.\nTenue & organisation du magasin***Veiller à la propreté et à la bonne tenue de la surface de vente.\n* Assurer un rangement soigné, un étiquetage clair et une mise en rayon attractive.\n* Maintenir une zone de caisse propre et organisée.\nRespect des procédures***Appliquer les procédures internes et les consignes hiérarchiques.\n* Respecter les règles de caisse et les politiques commerciales.\n* Lire et appliquer les notes internes.\n* Respecter les règles de sécurité et de prévention.\nDescription du profil :\nProfil recherché\nCompétences techniques***Techniques de vente et de conseil.\n* Connaissance des produits (ou capacité rapide d'apprentissage Maîtrise des procédures de caisse.\nQualités attendues***Sens du service client.\n* Amabilité et excellente présentation.\n* Réactivité et disponibilité.\n* Esprit d'équipe.\n* Rigueur et respect des règles Cadre & exigences***Respect des horaires d'ouverture et de fermeture.\n* Téléphone personnel non autorisé pendant le temps de travail (hors urgence Respect strict des règles de caisse.\n* Application des consignes de sécurité.\nPourquoi rejoindre Aubert ?\nParce qu'au-delà de la vente, vous accompagnez des familles dans un moment unique de leur vie.\nParce que votre professionnalisme contribue directement à la confiance et à la fidélité des clients.\nParce que vous exercez un métier humain, concret et utile.",
+        "dates": {
+            "created": "2026-05-12T08:46:10.000Z",
+            "updated": "2026-06-11T10:29:44.000Z"
+        },
+        "location": {
+            "label": "06 - Cannes",
+            "city_code": "06029",
+            "postal_code": "06150",
+            "coordinates": {
+                "lat": 43.549112,
+                "lon": 6.981444
+            }
+        },
+        "job": {
+            "rome_code": "D1505",
+            "rome_label": "Hôte / Hôtesse de caisse",
+            "appellation": "Caissier / Caissière"
+        },
+        "company": {
+            "name": null,
+            "description": "Aubert - Être présent dans les moments qui comptent vraiment\nDepuis des générations, Aubert accompagne les familles dans l'un des passages les plus forts de leur vie : l'arrivée d'un enfant\nCe moment est unique. Il est intense, parfois fragile, souvent rempli de questions.\nAubert choisit d'y répondre avec attention, engagement et humanité.\nPlus qu'un réseau de magasins spécialisé en puériculture, Aubert représente un repère. Un lieu où l'on prend le temps d'...",
+            "logo": null,
+            "website": null,
+            "adapted": false
+        },
+        "contract": {
+            "type": "CDI",
+            "label": "CDI",
+            "nature": "Contrat travail",
+            "qualification": null
+        },
+        "experience": {
+            "required": false,
+            "label": "Débutant accepté",
+            "comment": null
+        },
+        "salary": {
+            "label": "Annuel de 20000.0 Euros à 25000.0 Euros",
+            "comment": null,
+            "extras": []
+        },
+        "worktime": {
+            "raw": null,
+            "label": null
+        },
+        "skills": [],
+        "soft_skills": [],
+        "contact": {
+            "name": null,
+            "address": "",
+            "application_url": null
+        },
+        "agency": {
+            "email_or_url": null
+        },
+        "meta": {
+            "origineOffer": {
+                "origine": "2",
+                "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/2535693",
+                "partenaires": [
+                    {
+                        "nom": "METEOJOB",
+                        "url": "https://www.meteojob.com/jobs/53488009?utm_source=pole-emploi&utm_medium=aggregator-free",
+                        "logo": "https://www.francetravail.fr/logos/img/partenaires/meteojob80.png"
+                    }
+                ]
+            },
+            "positions": 1,
+            "handicap_accessible": false,
+            "remote_policy": null,
+            "sector": null,
+            "company_size": null,
+            "naf_code": null,
+            "urgent": null
+        },
+        "status": "applied"
+    },
+    {
+        "id": "3176206",
+        "title": "Développeur NodeJS (H/F)",
+        "description": "act digital est un groupe international de conseil et d'ingénierie qui accompagne ses clients dans leurs projets de transformation numérique. Présent dans 12 pays et fort de plus de 5 600 collaborateurs, nous mettons nos expertises au service de leurs enjeux en développement logiciel, cybersécurité, data, cloud et IA. Notre ambition : devenir le partenaire technologique de confiance des entreprises les plus innovantes, en concevant et sécurisant des systèmes qui renforcent leur performance et leur résilience. Rejoindre act digital France, c'est intégrer une organisation agile et engagée, qui fait avancer les projets avec ses clients pour transformer les idées en résultats concrets, avec pragmatisme et exigence. Le poste : Vos missions seront les suivantes : - Concevoir, développer et maintenir des applications et services backend. - Assurer la performance, la scalabilité et la sécurité des solutions. - Travailler avec des bases de données relationnelles et NoSQL. - Rédiger des tests unitaires et fonctionnels pour garantir la qualité du code. - Collaborer avec les équipes techniques et métiers pour assurer une bonne intégration des services. - Participer à l'amélioration continue des processus et bonnes pratiques de développement. Profil recherché : Quel profil pour ce poste : - Vous êtes issu(e) d'une formation Bac+5 (École d'ingénieur, Université ou équivalent ?) en informatique - Vous justifiez d'une expérience significative dans un environnement similaire. - Vous accordez de l'importance (et du temps) à la veille Quelles compétences/connaissances pour ce poste : - Expertise en Node.JS - Anglais bilingue - Experience en AWS ou dans un environnement cloud obligatoire",
+        "dates": {
+            "created": "2026-05-29T11:21:31.000Z",
+            "updated": "2026-05-29T11:21:31.000Z"
+        },
+        "location": {
+            "label": "06 - Biot",
+            "city_code": "06018",
+            "postal_code": "06410",
+            "coordinates": {
+                "lat": 43.618857,
+                "lon": 7.07539
+            }
+        },
+        "job": {
+            "rome_code": "M1855",
+            "rome_label": "Développeur / Développeuse web",
+            "appellation": "Développeur / Développeuse web"
+        },
+        "company": {
+            "name": null,
+            "description": "Act Digital France",
+            "logo": null,
+            "website": null,
+            "adapted": null
+        },
+        "contract": {
+            "type": "CDI",
+            "label": "CDI",
+            "nature": "Contrat travail",
+            "qualification": null
+        },
+        "experience": {
+            "required": true,
+            "label": "2 An(s)",
+            "comment": null
+        },
+        "salary": {
+            "label": null,
+            "comment": null,
+            "extras": []
+        },
+        "worktime": {
+            "raw": "\nTravail en journée",
+            "label": null
+        },
+        "skills": [],
+        "soft_skills": [],
+        "contact": {
+            "name": null,
+            "address": "",
+            "application_url": null
+        },
+        "agency": {
+            "email_or_url": null
+        },
+        "meta": {
+            "origineOffer": {
+                "origine": "2",
+                "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/3176206",
+                "partenaires": [
+                    {
+                        "nom": "PMEJOB",
+                        "url": "https://www.jobposting.pro/emploi-2598656-120",
+                        "logo": "https://www.francetravail.fr/logos/img/partenaires/pmejob80.png"
+                    }
+                ]
+            },
+            "positions": 1,
+            "handicap_accessible": null,
+            "remote_policy": null,
+            "sector": null,
+            "company_size": null,
+            "naf_code": null,
+            "urgent": null
+        },
+        "status": "applied"
+    },
+    {
+        "id": "3628219",
+        "title": "Développeur(se) Full Stack PHP F/H (H/F)",
+        "description": "Acteur majeur de son secteur, l'entreprise évolue à l'intersection du digital, du commerce et de la culture passion.\nElle opère des plateformes web à fort trafic, utilisées par des millions d'utilisateurs, et s'appuie sur des outils métiers robustes pour piloter ses activités.\nDans un contexte de modernisation continue, les équipes techniques jouent un rôle central : refonte d'applications historiques, création de nouveaux outils internes, amélioration des performances et de la fiabilité des systèmes. L'environnement privilégie le pragmatisme, la qualité du code, la stabilité en production et une forte proximité entre développeurs et utilisateurs métiers.En tant que Développeur Full Stack PHP, vous êtes un acteur clé de la solidité et de l'évolution du socle applicatif.\nVotre rôle s'inscrit dans la durée : garantir des applications fiables, performantes et alignées avec les enjeux métiers d'un environnement exigeant.\nVos responsabilités structurantes :\nConcevoir et développer des fonctionnalités front-end et back-end en PHP orienté objet\nFaire évoluer un patrimoine applicatif PHP 5 avec une approche qualitative et maîtrisée\nDévelopper des outils métiers stratégiques, utilisés quotidiennement par les équipes\nModéliser, interroger et optimiser des bases MySQL\nProduire des interfaces soignées en HTML5, CSS3, JavaScript, jQuery, Bootstrap\nContribuer aux réflexions fonctionnelles et techniques en amont des développements\nGarantir un haut niveau de qualité, de stabilité et de maintenabilité du code\nCollaborer dans un cadre structuré via Git / GitLab\nCDI au sein d'un groupe reconnu, solide et pérenne\nStatut Cadre\nRémunération attractivebrut annuel, selon expertise\nPoste 100 % présentiel, favorisant la collaboration et l'efficacité opérationnelle\nProjets concrets, utiles et visibles, au cœur de l'activité\nEnvironnement technique stable, maîtrisé et structuré\nÉquipe expérimentée, culture du travail bien fait et du long terme\nCadre professionnel valorisant l'expertise, la fiabilité et l'engagement",
+        "dates": {
+            "created": "2026-06-10T05:48:58.000Z",
+            "updated": "2026-06-10T05:48:58.000Z"
+        },
+        "location": {
+            "label": "06 - Valbonne",
+            "city_code": "06152",
+            "postal_code": "06560",
+            "coordinates": {
+                "lat": 43.622404,
+                "lon": 7.046216
+            }
+        },
+        "job": {
+            "rome_code": "M1855",
+            "rome_label": "Développeur / Développeuse web",
+            "appellation": "Développeur / Développeuse full-stack"
+        },
+        "company": {
+            "name": null,
+            "description": "Nos missions : Michael Page recrute des cadres confirm&eacute;s en CDI et CDD gr&acirc;ce &agrave; l&rsquo;expertise de consultants r&eacute;partis au sein de 17 divisions sp&eacute;cialis&eacute;es : Achats &amp; Logistique, Assurance, Audit, Conseil &amp; Expertise, Banque, Commercial, Digital, M&eacute;dias &amp; Communication, Distribution &amp; Commerce, Finance &amp; Comptabilit&eacute;, H&ocirc;tellerie &amp; Tourisme, Immobilier &amp; Construction, Ing&eacute;nieurs, Juridique &amp; ...",
+            "logo": null,
+            "website": null,
+            "adapted": false
+        },
+        "contract": {
+            "type": "CDI",
+            "label": "CDI",
+            "nature": "Contrat travail",
+            "qualification": null
+        },
+        "experience": {
+            "required": false,
+            "label": "Débutant accepté",
+            "comment": null
+        },
+        "salary": {
+            "label": null,
+            "comment": null,
+            "extras": []
+        },
+        "worktime": {
+            "raw": null,
+            "label": null
+        },
+        "skills": [],
+        "soft_skills": [],
+        "contact": {
+            "name": null,
+            "address": "",
+            "application_url": null
+        },
+        "agency": {
+            "email_or_url": null
+        },
+        "meta": {
+            "origineOffer": {
+                "origine": "2",
+                "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/3628219",
+                "partenaires": [
+                    {
+                        "nom": "DIRECTEMPLOI",
+                        "url": "https://www.directemploi.com/candidatOffre/55273117?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+                        "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+                    }
+                ]
+            },
+            "positions": 1,
+            "handicap_accessible": false,
+            "remote_policy": null,
+            "sector": null,
+            "company_size": null,
+            "naf_code": null,
+            "urgent": null
+        },
+        "status": "applied"
+    },
+    {
+        "id": "3883237",
+        "title": "HÔTE DE CAISSE (H/F)",
+        "description": "Le Groupement Mousquetaires, ce sont 7 enseignes de la grande distribution,  collaborateurs et plus de  chefs d'entreprise indépendants !Intermarché &amp; Netto fait du mieux manger accessible à tous une réalité. Notre indépendance et la diversité de nos métiers nous permettent de répondre aux attentes des Français et nous propulsent au rang de 3e distributeur. Chaque métier compte pour écrire l'avenir de la distribution alimentaire.Prêt.e à faire la différence ? Rejoignez-nous !Le magasin Intermarché d'Antibes La Badine renforce son équipe caisse en recrutant&#xa0;un hôte de caisse H/F (CDI - temps complet).\nSous la responsabilité de votre manager, vous avez un rôle clé dans la satisfaction de nos clients en étant disponible et bienveillant. En accueillant les clients au moment de leur passage en caisse, vous participez à leur fidélisation. Vous effectuez l'enregistrement des achats et réalisez l'encaissement dans le respect des procédures afin d'assurer le bon déroulement du passage en caisse. Vous êtes responsable de la bonne tenue de votre caisse dans un objectif d'amélioration de l'expérience client.",
+        "dates": {
+            "created": "2026-06-17T07:20:11.000Z",
+            "updated": "2026-06-21T05:26:04.000Z"
+        },
+        "location": {
+            "label": "06 - Antibes",
+            "city_code": "06004",
+            "postal_code": "06160",
+            "coordinates": {
+                "lat": 43.579904,
+                "lon": 7.119559
+            }
+        },
+        "job": {
+            "rome_code": "D1505",
+            "rome_label": "Hôte / Hôtesse de caisse",
+            "appellation": "Hôte / Hôtesse de caisse"
+        },
+        "company": {
+            "name": null,
+            "description": "Qu&rsquo;elles soient li&eacute;es &agrave; l&rsquo;alimentaire, au bricolage ou &agrave; la mobilit&eacute;, nos enseignes offrent une tr&egrave;s grande vari&eacute;t&eacute; de m&eacute;tiers accessibles pr&egrave;s de chez vous.\nD&eacute;couvrez celui qui vous convient en fonction de vos comp&eacute;tences, de votre exp&eacute;rience et de vos aspirations personnelles. Il y a forc&eacute;ment un m&eacute;tier fait pour vous alors,\nrejoignez l&rsquo;aventure Mousquetaires !",
+            "logo": null,
+            "website": null,
+            "adapted": false
+        },
+        "contract": {
+            "type": "CDI",
+            "label": "CDI",
+            "nature": "Contrat travail",
+            "qualification": null
+        },
+        "experience": {
+            "required": false,
+            "label": "Débutant accepté",
+            "comment": null
+        },
+        "salary": {
+            "label": null,
+            "comment": null,
+            "extras": []
+        },
+        "worktime": {
+            "raw": null,
+            "label": null
+        },
+        "skills": [],
+        "soft_skills": [],
+        "contact": {
+            "name": null,
+            "address": "",
+            "application_url": null
+        },
+        "agency": {
+            "email_or_url": null
+        },
+        "meta": {
+            "origineOffer": {
+                "origine": "2",
+                "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/3883237",
+                "partenaires": [
+                    {
+                        "nom": "DIRECTEMPLOI",
+                        "url": "https://www.directemploi.com/candidatOffre/53144979?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+                        "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+                    }
+                ]
+            },
+            "positions": 1,
+            "handicap_accessible": false,
+            "remote_policy": null,
+            "sector": null,
+            "company_size": null,
+            "naf_code": null,
+            "urgent": null
+        },
+        "compatibility_score": 0,
+        "common_skills": [],
+        "status": "to_apply"
+    },
+    {
+        "id": "3877020",
+        "title": "HÔTE DE CAISSE (H/F)",
+        "description": "Le Groupement Mousquetaires, ce sont 7 enseignes de la grande distribution,  collaborateurs et plus de  chefs d'entreprise indépendants !Intermarché &amp; Netto fait du mieux manger accessible à tous une réalité. Notre indépendance et la diversité de nos métiers nous permettent de répondre aux attentes des Français et nous propulsent au rang de 3e distributeur. Chaque métier compte pour écrire l'avenir de la distribution alimentaire.Prêt.e à faire la différence ? Rejoignez-nous !\nSous la responsabilité de votre manager, vous avez un rôle clé dans la satisfaction de nos clients en étant disponible et bienveillant. En accueillant les clients au moment de leur passage en caisse, vous participez à leur fidélisation. Vous effectuez l'enregistrement des achats et réalisez l'encaissement dans le respect des procédures afin d'assurer le bon déroulement du passage en caisse. Vous êtes responsable de la bonne tenue de votre caisse dans un objectif d'amélioration de l'expérience client.",
+        "dates": {
+            "created": "2026-06-17T05:59:57.000Z",
+            "updated": "2026-06-21T05:19:41.000Z"
+        },
+        "location": {
+            "label": "06 - Cannes",
+            "city_code": "06029",
+            "postal_code": "06150",
+            "coordinates": {
+                "lat": 43.552984,
+                "lon": 7.013128
+            }
+        },
+        "job": {
+            "rome_code": "D1505",
+            "rome_label": "Hôte / Hôtesse de caisse",
+            "appellation": "Hôte / Hôtesse de caisse"
+        },
+        "company": {
+            "name": null,
+            "description": "Qu&rsquo;elles soient li&eacute;es &agrave; l&rsquo;alimentaire, au bricolage ou &agrave; la mobilit&eacute;, nos enseignes offrent une tr&egrave;s grande vari&eacute;t&eacute; de m&eacute;tiers accessibles pr&egrave;s de chez vous.\nD&eacute;couvrez celui qui vous convient en fonction de vos comp&eacute;tences, de votre exp&eacute;rience et de vos aspirations personnelles. Il y a forc&eacute;ment un m&eacute;tier fait pour vous alors,\nrejoignez l&rsquo;aventure Mousquetaires !",
+            "logo": null,
+            "website": null,
+            "adapted": false
+        },
+        "contract": {
+            "type": "CDI",
+            "label": "CDI",
+            "nature": "Contrat travail",
+            "qualification": null
+        },
+        "experience": {
+            "required": false,
+            "label": "Débutant accepté",
+            "comment": null
+        },
+        "salary": {
+            "label": null,
+            "comment": null,
+            "extras": []
+        },
+        "worktime": {
+            "raw": null,
+            "label": null
+        },
+        "skills": [],
+        "soft_skills": [],
+        "contact": {
+            "name": null,
+            "address": "",
+            "application_url": null
+        },
+        "agency": {
+            "email_or_url": null
+        },
+        "meta": {
+            "origineOffer": {
+                "origine": "2",
+                "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/3877020",
+                "partenaires": [
+                    {
+                        "nom": "DIRECTEMPLOI",
+                        "url": "https://www.directemploi.com/candidatOffre/53145194?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+                        "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+                    }
+                ]
+            },
+            "positions": 1,
+            "handicap_accessible": false,
+            "remote_policy": null,
+            "sector": null,
+            "company_size": null,
+            "naf_code": null,
+            "urgent": null
+        },
+        "compatibility_score": 0,
+        "common_skills": [],
+        "status": "applied"
+    },
+    {
+        "id": "3828491",
+        "title": "Vendeur / Vendeuse en animalerie (20542) (H/F)",
+        "description": "Maxi Zoo est le leader incontestable de l’animalerie avec un réseau de magasins présents sur tout le territoire français et un site de e-commerce. Notre ADN: rendre la vie des animaux de compagnie et de leur maitre plus facile et plus heureuse grâce à une offre de produits et de services de qualité. Notre ambition: développer un écosystème pour répondre à l’ensemble des envies de nos clients et aux besoins de leurs animaux. Ce qui rythme tes journées * Au service des clients ! Chaque jour, tu les accueilles, les écoutes, les fidélises mais surtout les conseilles et partage ton expertise. Alimentation, hygiène, soin, jouet. Tu trouves le produit qui correspond le mieux à leurs attentes pour le bien-être de leur animal. * Tu es le/la garant(e) du bien-être des animaux en magasin ! Tu assures les soins, l’entretien et veille au respect des protocoles sanitaires. * Avec l'équipe, tu participes activement à la réussite commerciale du magasin. Grâce à toi, les clients trouveront toujours des rayons bien achalandés : tu réalises les commandes, réceptionnes la marchandise, assures la mise en rayon, garantis la disponibilité des produits et mets en place les opérations commerciales. Tes atouts essentiels pour le poste * Tu es un homme ou une femme de terrain, enthousiaste et polyvalent(e). Ton sens des responsabilités et ton autonomie font de toi une personne de confiance incontournable. * Tu es autant animé(e) par le bien-être animal que par l’accueil, la dimension produit et le service client. * Tu es dynamique (la manutention et les palettes ne te font pas peur). * Tu es à la recherche de perspectives et de sens et tu es attentif(ve) aux engagements pris par l’entreprise dans le domaine du bien-être animal. Tu souhaites rejoindre une entreprise à taille humaine et travailler en équipe. * Tu es idéalement titulaire du certificat de capacité domestique / non domestique, ou d’un BAC Pro TCVA, tu bénéficies aussi d’une formation commerciale, et/ou expérience réussie dans le secteur de l’animalerie. Ce que nous te proposons * Contrat : CDI 35h * Statut employé * Rémunération : de 1 905€ à 1 936€ brut mensuel minimum + primes selon certicicat de capacité (de 30 € à 280 €) * Prise de poste : au plus tôt * Tu bénéficieras d’autres avantages significatifs : Prime de participation aux bénéfices, gains liés aux challenges, des remises sur les produits Maxi Zoo, prise en charge de la mutuelle, accès aux avantages du CSE… Et t’offrons la possibilité de venir au travail avec ton chien. Convention collective IDCC 1978",
+        "dates": {
+            "created": "2026-06-16T10:03:35.000Z",
+            "updated": "2026-06-16T10:03:35.000Z"
+        },
+        "location": {
+            "label": "06 - Nice",
+            "city_code": "06088",
+            "postal_code": "06000",
+            "coordinates": {
+                "lat": 43.693888,
+                "lon": 7.251207
+            }
+        },
+        "job": {
+            "rome_code": "D1210",
+            "rome_label": "Vendeur / Vendeuse en animalerie",
+            "appellation": "Vendeur / Vendeuse en animalerie"
+        },
+        "company": {
+            "name": null,
+            "description": null,
+            "logo": null,
+            "website": null,
+            "adapted": null
+        },
+        "contract": {
+            "type": "CDI",
+            "label": "CDI",
+            "nature": "Contrat travail",
+            "qualification": null
+        },
+        "experience": {
+            "required": true,
+            "label": "1 An(s)",
+            "comment": null
+        },
+        "salary": {
+            "label": "Mensuel de 1905.0 Euros à 1936.0 Euros",
+            "comment": null,
+            "extras": []
+        },
+        "worktime": {
+            "raw": "\nTravail en journée",
+            "label": null
+        },
+        "skills": [],
+        "soft_skills": [],
+        "contact": {
+            "name": null,
+            "address": "",
+            "application_url": null
+        },
+        "agency": {
+            "email_or_url": null
+        },
+        "meta": {
+            "origineOffer": {
+                "origine": "2",
+                "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/3828491",
+                "partenaires": [
+                    {
+                        "nom": "MULTIPOSTING",
+                        "url": "https://fressnapf-tiernahrungs-gmbh.contactrh.com/jobs/6469/44246044",
+                        "logo": "https://www.francetravail.fr/logos/img/partenaires/multiposting80.png"
+                    }
+                ]
+            },
+            "positions": 1,
+            "handicap_accessible": null,
+            "remote_policy": null,
+            "sector": null,
+            "company_size": null,
+            "naf_code": null,
+            "urgent": null
+        },
+        "compatibility_score": 0,
+        "common_skills": [],
+        "status": "applied"
+    },
+    {
+        "id": "3138975",
+        "title": "Assistant Planification- VALLAURIS H/F",
+        "description": "Filiale française du groupe SPIE, leader européen des services multi-techniques dans les domaines de l'énergie et des communications, SPIE Facilities propose à ses clients une offre dédiée à la maintenance des bâtiments et au Facility Management, sur l'ensemble du périmètre national. Elle compte  collaborateurs qui interviennent depuis 65 implantations.Unir nos différences : SPIE s'engage à promouvoir la diversité. Le recrutement de collaborateurs en situation de handicap constitue un axe important de notre politique RH.Notre filiale SPIE Facilities propose à ses clients une offre dédiée à la maintenance des bâtiments tertiaires, industriels et collectivités, associés à des services de Facility Management. Comment ? Grâce à l'expertise en propre de nos techniciens, ingénieurs et consultants ! Nos équipes interviennent ainsi dans la conception, la réalisation, l'exploitation et la maintenance d'installations économes en énergie et respectueuses de l'environnement.Venez chez nous si ça vous branche de contribuer à la performance du service et si vous souhaitez travailler dans une équipe dynamique où la cohésion est de rigueur, devenez notre prochainbr />  Assistant Planification VALLAURIS (F/H)  Basé à notre agence de Vallauris (06), vous assurez la planification et l'organisation des opérations de maintenance préventive et corrective sur nos activités itinérantes que ce soit en CVC (chauffage, ventilation, climatisation) en courants faibles et SSI, mais aussi en multi techniques.Vous êtes le (la) garant(e) de l'avancement des plans de maintenance préventive sur nos différents contrats et de la charge des équipes d'intervention en lien avec les différents Responsables d'affaires, dans le respect des règles contractuelles etréglementaires.Vous travaillez en relation étroite avec nos équipes d'intervention sur le terrain et les Responsables d'affaires pour assurer la satisfaction client. Vos qualités relationnelles et organisationnelles sont essentielles pour réussir dans ce poste. Vos principales missions sont : - Mise à jour des plans de maintenance dans la GMAO, conformément à nosengagements contractuels en lien avec notre cellule Méthode &amp; Outils - Planification des opérations de maintenance préventive, en veillant à l'optimisation de la charge des intervenants - Prise en compte des demandes de dépannage émises par les clients et planification des opérations correctives (CFA/SSI)- Coordonner et assurer le suivi des différentes opérations de maintenance préventive, corrective et de travaux, en garantissant la charge des équipes d'intervention - Veiller à la clôture des opérations de maintenance et de travaux dans la GMAO, pour garantir la traçabilité de l'activité- Facturation au quotidien des interventions- Mise à jour de la GMAO et du reporting d'activités - Gérer et suivre le planning d'astreinteDans un objectif d'amélioration continue, vous : - Etes force de proposition dans l'optimisation de nos organisations opérationnelles - Analysez les plans de charge opérationnels et détecter les éventuelles défaillances - Consolidez le planning en assurant l'adéquation charges / ressources / délais - Assurez la mise en oeuvre des outils de suivi d'activité sous la GMAO",
+        "dates": {
+            "created": "2026-05-28T18:34:06.000Z",
+            "updated": "2026-06-20T15:47:59.000Z"
+        },
+        "location": {
+            "label": "06 - Vallauris",
+            "city_code": "06155",
+            "postal_code": "06220",
+            "coordinates": {
+                "lat": 43.568822,
+                "lon": 7.072288
+            }
+        },
+        "job": {
+            "rome_code": "M1827",
+            "rome_label": "Ingénieur / Ingénieure DevOps",
+            "appellation": "Architecte DevOps"
+        },
+        "company": {
+            "name": null,
+            "description": "-",
+            "logo": null,
+            "website": null,
+            "adapted": false
+        },
+        "contract": {
+            "type": "CDI",
+            "label": "CDI",
+            "nature": "Contrat travail",
+            "qualification": null
+        },
+        "experience": {
+            "required": false,
+            "label": "Débutant accepté",
+            "comment": null
+        },
+        "salary": {
+            "label": null,
+            "comment": null,
+            "extras": []
+        },
+        "worktime": {
+            "raw": null,
+            "label": null
+        },
+        "skills": [],
+        "soft_skills": [],
+        "contact": {
+            "name": null,
+            "address": "",
+            "application_url": null
+        },
+        "agency": {
+            "email_or_url": null
+        },
+        "meta": {
+            "origineOffer": {
+                "origine": "2",
+                "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/3138975",
+                "partenaires": [
+                    {
+                        "nom": "DIRECTEMPLOI",
+                        "url": "https://www.directemploi.com/candidatOffre/55139345?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+                        "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+                    }
+                ]
+            },
+            "positions": 1,
+            "handicap_accessible": false,
+            "remote_policy": null,
+            "sector": null,
+            "company_size": null,
+            "naf_code": null,
+            "urgent": null
+        },
+        "compatibility_score": 0,
+        "common_skills": [],
+        "status": "to_apply"
+    },
+    {
+        "id": "209YDYZ",
+        "title": "Ingénieur DevOps   (H/F)",
+        "description": "Dans le cadre de l'automatisation de l'intégration et du déploiement des applications informatiques de nos clients, tu seras en charge de :\n- Construire, maintenir en conditions opérationnelles et améliorer les différentes plateformes d'intégration et déploiement continu\n- Définir les processus de déploiements\n- Déployer des releases applicatives sur les environnements de test et de production\n- Assurer la disponibilité des applications au quotidien.\n- Analyser l'infrastructure et le fonctionnement (monitoring, optimisation de la performance, etc)\n- Investiguer et corriger les anomalies et faits techniques\n- Intégrer, maintenir, administrer et documenter les outils de déploiement, automatiser les tâches courantes\n- Administrer le traitement des tickets d'incidents\n- Appliquer les changements validés sur les environnements Linux, Oracle \n- Intégrer et valider les patchs ou les correctifs fournis par l'équipe de réalisation.\n- Accompagnement des équipes de développement et opérationnelles vers la méthodologie DEVOPS\nCompétences requises ou à acquérir\n- Tu as développé des compétences polyvalentes dans les domaines de l'administration Linux et des connaissances sur les outils CI/CD couramment utilisés\n- La démarche DevOps n'a plus de secret pour toi\n- Tu maîtrises les sujets suivants : administration d'outils d'intégration continue comme Jenkins ou Gitlab-CI, Nexus/Artifactory, Sonarqube etc \n- Des technologies autour des conteneurs, Docker, Kubernetes, Rancher, Openshift/okd\n- Des providers Cloud, AWS, Azure, GCP \n- Anglais TB niveau",
+        "dates": {
+            "created": "2026-06-18T09:38:26.169Z",
+            "updated": "2026-06-18T09:38:26.618Z"
+        },
+        "location": {
+            "label": "06 - VALBONNE",
+            "city_code": "06152",
+            "postal_code": "06560",
+            "coordinates": {
+                "lat": 43.622404,
+                "lon": 7.046216
+            }
+        },
+        "job": {
+            "rome_code": "M1827",
+            "rome_label": "Ingénieur / Ingénieure DevOps",
+            "appellation": "Ingénieur / Ingénieure DevOps"
+        },
+        "company": {
+            "name": "DAVIDSON PACA",
+            "description": "Cre en 2005, Davidson est une socit qui se positionne sur le segment haut de gamme du conseil en management et expertise technologique.\nNotre approche qualitative a fait de Davidson la premire socit dans laquelle il fait bon travailler au Palmars Great Place to Work France et Europe 2015 !\n",
+            "logo": null,
+            "website": null,
+            "adapted": false
+        },
+        "contract": {
+            "type": "CDI",
+            "label": "CDI",
+            "nature": "Contrat travail",
+            "qualification": "Cadre"
+        },
+        "experience": {
+            "required": true,
+            "label": "1 An(s)",
+            "comment": null
+        },
+        "salary": {
+            "label": "Annuel de 35000.0 Euros à 55000.0 Euros sur 12.0 mois",
+            "comment": null,
+            "extras": []
+        },
+        "worktime": {
+            "raw": "35H/semaine\nTravail en journée",
+            "label": "Temps plein"
+        },
+        "skills": [
+            {
+                "code": "484485",
+                "label": "Configurer et optimiser des systèmes DevOps",
+                "required": true
+            },
+            {
+                "code": "300242",
+                "label": "Déterminer des mesures correctives",
+                "required": true
+            },
+            {
+                "code": "300188",
+                "label": "Rédiger un cahier des charges, des spécifications techniques",
+                "required": true
+            }
+        ],
+        "soft_skills": [],
+        "contact": {
+            "name": "DAVIDSON PACA - M. Othman DRIOUCHE",
+            "address": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/209YDYZ",
+            "application_url": null
+        },
+        "agency": {
+            "email_or_url": null
+        },
+        "meta": {
+            "origineOffer": {
+                "origine": "1",
+                "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/209YDYZ"
+            },
+            "positions": 1,
+            "handicap_accessible": null,
+            "remote_policy": "Jamais",
+            "sector": "Ingénierie,études techniques",
+            "company_size": "100 à 199 salariés",
+            "naf_code": "71.12B",
+            "urgent": false
+        },
+        "compatibility_score": 0.0,
+        "common_skills": [],
+        "status": "to_apply"
+    },
+    {
+        "id": "4084240",
+        "title": "Développeur(se) Full Stack PHP F/H (H/F)",
+        "description": "En tant que Développeur Full Stack PHP, vous êtes un acteur clé de la solidité et de l'évolution du socle applicatif.\nVotre rôle s'inscrit dans la durée : garantir des applications fiables, performantes et alignées avec les enjeux métiers d'un environnement exigeant.\nVos responsabilités structurantes : \n * Concevoir et développer des fonctionnalités front-end et back-end en PHP orienté objet\n * Faire évoluer un patrimoine applicatif PHP 5 avec une approche qualitative et maîtrisée\n * Développer des outils métiers stratégiques, utilisés quotidiennement par les équipes\n * Modéliser, interroger et optimiser des bases MySQL\n * Produire des interfaces soignées en HTML5, CSS3, JavaScript, jQuery, Bootstrap\n * Contribuer aux réflexions fonctionnelles et techniques en amont des développements\n * Garantir un haut niveau de qualité, de stabilité et de maintenabilité du code\n * Collaborer dans un cadre structuré via Git / GitLab\nVous êtes animé(e) par la recherche de solutions robustes, durables et utiles, et à l'aise dans un environnement dynamique. \n * Expertise solide en PHP\n * Maîtrise du développement front-end et back-end, dans une logique de qualité globale\n * Excellente pratique de JavaScript, HTML5, CSS3, jQuery, Bootstrap\n * Capacité à concevoir, interroger et optimiser des bases de données MySQL\n * Utilisation de Git / GitLab\n * Aisance dans un environnement Linux et compréhension des contraintes serveur\n * Une vraie exigence sur la qualité du code, la maintenabilité et la stabilité\n * Une approche pragmatique, orientée solutions et impact opérationnel\n* CDI au sein d'un groupe reconnu, solide et pérenne\n * Statut Cadre\n * Rémunération attractive : 50 000 € à 55 000 € brut annuel, selon expertise\n * Poste 100 % présentiel, favorisant la collaboration et l'efficacité opérationnelle\n * Projets concrets, utiles et visibles, au cœur de l'activité\n * Environnement technique stable, maîtrisé et structuré\n * Équipe expérimentée, culture du travail bien fait et du long terme\n * Cadre professionnel valorisant l'expertise, la fiabilité et l'engagement",
+        "dates": {
+            "created": "2026-06-21T09:21:11.000Z",
+            "updated": "2026-06-21T09:21:12.000Z"
+        },
+        "location": {
+            "label": "06 - Alpes-Maritimes",
+            "city_code": null,
+            "postal_code": null,
+            "coordinates": {
+                "lat": 43.628288,
+                "lon": 7.029545
+            }
+        },
+        "job": {
+            "rome_code": "M1855",
+            "rome_label": "Développeur / Développeuse web",
+            "appellation": "Développeur / Développeuse full-stack"
+        },
+        "company": {
+            "name": "Michael Page",
+            "description": null,
+            "logo": null,
+            "website": null,
+            "adapted": false
+        },
+        "contract": {
+            "type": "CDI",
+            "label": "CDI",
+            "nature": "Contrat travail",
+            "qualification": null
+        },
+        "experience": {
+            "required": true,
+            "label": "1 An(s)",
+            "comment": null
+        },
+        "salary": {
+            "label": "Annuel de 50000.0 Euros à 55000.0 Euros",
+            "comment": null,
+            "extras": []
+        },
+        "worktime": {
+            "raw": null,
+            "label": null
+        },
+        "skills": [],
+        "soft_skills": [],
+        "contact": {
+            "name": null,
+            "address": "",
+            "application_url": null
+        },
+        "agency": {
+            "email_or_url": null
+        },
+        "meta": {
+            "origineOffer": {
+                "origine": "2",
+                "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4084240",
+                "partenaires": [
+                    {
+                        "nom": "BROADBEAN",
+                        "url": "https://www.aplitrak.com/?adid=TVAuMDM2OTMuMTMwODdAcGFnZWZyYXV0b3Bvc3QuYXBsaXRyYWsuY29t",
+                        "logo": "https://www.francetravail.fr/logos/img/partenaires/broadbean80.png"
+                    }
+                ]
+            },
+            "positions": 1,
+            "handicap_accessible": false,
+            "remote_policy": null,
+            "sector": "Production de films et de programmes pour la télévision",
+            "company_size": null,
+            "naf_code": "59.11A",
+            "urgent": null
+        },
+        "compatibility_score": 0,
+        "common_skills": [],
+        "status": "to_apply"
+    },
+    {
+        "id": "3855938",
+        "title": "Développeur(se) Full Stack PHP F/H (H/F)",
+        "description": "Acteur majeur de son secteur, l'entreprise évolue à l'intersection du digital, du commerce et de la culture passion.\nElle opère des plateformes web à fort trafic, utilisées par des millions d'utilisateurs, et s'appuie sur des outils métiers robustes pour piloter ses activités.\nDans un contexte de modernisation continue, les équipes techniques jouent un rôle central : refonte d'applications historiques, création de nouveaux outils internes, amélioration des performances et de la fiabilité des systèmes. L'environnement privilégie le pragmatisme, la qualité du code, la stabilité en production et une forte proximité entre développeurs et utilisateurs métiers.En tant que Développeur Full Stack PHP, vous êtes un acteur clé de la solidité et de l'évolution du socle applicatif.\nVotre rôle s'inscrit dans la durée : garantir des applications fiables, performantes et alignées avec les enjeux métiers d'un environnement exigeant.\nVos responsabilités structurantes :\nConcevoir et développer des fonctionnalités front-end et back-end en PHP orienté objet\nFaire évoluer un patrimoine applicatif PHP 5 avec une approche qualitative et maîtrisée\nDévelopper des outils métiers stratégiques, utilisés quotidiennement par les équipes\nModéliser, interroger et optimiser des bases MySQL\nProduire des interfaces soignées en HTML5, CSS3, JavaScript, jQuery, Bootstrap\nContribuer aux réflexions fonctionnelles et techniques en amont des développements\nGarantir un haut niveau de qualité, de stabilité et de maintenabilité du code\nCollaborer dans un cadre structuré via Git / GitLab\nCDI au sein d'un groupe reconnu, solide et pérenne\nStatut Cadre\nRémunération attractivebrut annuel, selon expertise\nPoste 100 % présentiel, favorisant la collaboration et l'efficacité opérationnelle\nProjets concrets, utiles et visibles, au cœur de l'activité\nEnvironnement technique stable, maîtrisé et structuré\nÉquipe expérimentée, culture du travail bien fait et du long terme\nCadre professionnel valorisant l'expertise, la fiabilité et l'engagement",
+        "dates": {
+            "created": "2026-06-16T19:32:03.000Z",
+            "updated": "2026-06-20T16:35:51.000Z"
+        },
+        "location": {
+            "label": "06 - Valbonne",
+            "city_code": "06152",
+            "postal_code": "06560",
+            "coordinates": {
+                "lat": 43.622404,
+                "lon": 7.046216
+            }
+        },
+        "job": {
+            "rome_code": "M1855",
+            "rome_label": "Développeur / Développeuse web",
+            "appellation": "Développeur / Développeuse full-stack"
+        },
+        "company": {
+            "name": null,
+            "description": "Nos missions : Michael Page recrute des cadres confirm&eacute;s en CDI et CDD gr&acirc;ce &agrave; l&rsquo;expertise de consultants r&eacute;partis au sein de 17 divisions sp&eacute;cialis&eacute;es : Achats &amp; Logistique, Assurance, Audit, Conseil &amp; Expertise, Banque, Commercial, Digital, M&eacute;dias &amp; Communication, Distribution &amp; Commerce, Finance &amp; Comptabilit&eacute;, H&ocirc;tellerie &amp; Tourisme, Immobilier &amp; Construction, Ing&eacute;nieurs, Juridique &amp; ...",
+            "logo": null,
+            "website": null,
+            "adapted": false
+        },
+        "contract": {
+            "type": "CDI",
+            "label": "CDI",
+            "nature": "Contrat travail",
+            "qualification": null
+        },
+        "experience": {
+            "required": false,
+            "label": "Débutant accepté",
+            "comment": null
+        },
+        "salary": {
+            "label": null,
+            "comment": null,
+            "extras": []
+        },
+        "worktime": {
+            "raw": null,
+            "label": null
+        },
+        "skills": [],
+        "soft_skills": [],
+        "contact": {
+            "name": null,
+            "address": "",
+            "application_url": null
+        },
+        "agency": {
+            "email_or_url": null
+        },
+        "meta": {
+            "origineOffer": {
+                "origine": "2",
+                "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/3855938",
+                "partenaires": [
+                    {
+                        "nom": "DIRECTEMPLOI",
+                        "url": "https://www.directemploi.com/candidatOffre/55354227?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+                        "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+                    }
+                ]
+            },
+            "positions": 1,
+            "handicap_accessible": false,
+            "remote_policy": null,
+            "sector": null,
+            "company_size": null,
+            "naf_code": null,
+            "urgent": null
+        },
+        "compatibility_score": 0,
+        "common_skills": [],
+        "status": "to_apply"
+    },
+    {
+        "id": "3055452",
+        "title": "DEVELOPPEUR JAVA (F/H) (H/F)",
+        "description": "En quelques mots :Vous intégrerez des projets qualitatifs aux modèles complexes dans lesquels vous serez pleinement investi et en phase avec ces éléments :",
+        "dates": {
+            "created": "2026-05-27T04:46:05.000Z",
+            "updated": "2026-06-20T15:56:33.000Z"
+        },
+        "location": {
+            "label": "06 - Cagnes-sur-Mer",
+            "city_code": "06027",
+            "postal_code": "06800",
+            "coordinates": {
+                "lat": 43.669132,
+                "lon": 7.165389
+            }
+        },
+        "job": {
+            "rome_code": "M1855",
+            "rome_label": "Développeur / Développeuse web",
+            "appellation": "Développeur / Développeuse back-end"
+        },
+        "company": {
+            "name": null,
+            "description": "-",
+            "logo": null,
+            "website": null,
+            "adapted": false
+        },
+        "contract": {
+            "type": "CDI",
+            "label": "CDI",
+            "nature": "Contrat travail",
+            "qualification": null
+        },
+        "experience": {
+            "required": false,
+            "label": "Débutant accepté",
+            "comment": null
+        },
+        "salary": {
+            "label": null,
+            "comment": null,
+            "extras": []
+        },
+        "worktime": {
+            "raw": null,
+            "label": null
+        },
+        "skills": [],
+        "soft_skills": [],
+        "contact": {
+            "name": null,
+            "address": "",
+            "application_url": null
+        },
+        "agency": {
+            "email_or_url": null
+        },
+        "meta": {
+            "origineOffer": {
+                "origine": "2",
+                "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/3055452",
+                "partenaires": [
+                    {
+                        "nom": "DIRECTEMPLOI",
+                        "url": "https://www.directemploi.com/candidatOffre/55115138?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+                        "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+                    }
+                ]
+            },
+            "positions": 1,
+            "handicap_accessible": false,
+            "remote_policy": null,
+            "sector": null,
+            "company_size": null,
+            "naf_code": null,
+            "urgent": null
+        },
+        "compatibility_score": 0,
+        "common_skills": [],
+        "status": "applied"
+    },
+    {
+        "id": "209YFCL",
+        "title": "Ingénieur Full stack   (H/F)",
+        "description": "En tant que Consultant(e) Fullstack Java / Angular, tu devras :\n\n- Analyser les besoins, conception technique et développement principalement des interfaces d'API privées (authentification etc  )\n- Participer aux spécifications techniques\n- Prendre en charge les développements en garantissant la qualité du code\n- Mettre en place les tests et la recette technique de la solution développée\n- Participer à la mise en place de l'intégration et livraison continue\n- Participer à la mise en production dans un environnement full Agile\n\nCompétences requises ou à acquérir \n\n- Java / J2EE / Spring / Angular / la stack Javascript\n- Agile\n- Anglais\n\nDiplômé(e) d'un Bac +5, tu souhaites travailler dans un environnement web, avec une stack Java / Angular / JS,",
+        "dates": {
+            "created": "2026-06-18T09:41:28.082Z",
+            "updated": "2026-06-18T09:41:28.530Z"
+        },
+        "location": {
+            "label": "06 - VALBONNE",
+            "city_code": "06152",
+            "postal_code": "06560",
+            "coordinates": {
+                "lat": 43.622404,
+                "lon": 7.046216
+            }
+        },
+        "job": {
+            "rome_code": "M1855",
+            "rome_label": "Développeur / Développeuse web",
+            "appellation": "Développeur / Développeuse full-stack"
+        },
+        "company": {
+            "name": "DAVIDSON PACA",
+            "description": null,
+            "logo": null,
+            "website": null,
+            "adapted": false
+        },
+        "contract": {
+            "type": "CDI",
+            "label": "CDI",
+            "nature": "Contrat travail",
+            "qualification": "Cadre"
+        },
+        "experience": {
+            "required": true,
+            "label": "1 An(s)",
+            "comment": null
+        },
+        "salary": {
+            "label": "Annuel de 35000.0 Euros à 45000.0 Euros sur 12.0 mois",
+            "comment": null,
+            "extras": []
+        },
+        "worktime": {
+            "raw": "35H/semaine\nTravail en journée",
+            "label": "Temps plein"
+        },
+        "skills": [
+            {
+                "code": "300688",
+                "label": "Application web",
+                "required": true
+            },
+            {
+                "code": "109846",
+                "label": "Concevoir une application web",
+                "required": true
+            }
+        ],
+        "soft_skills": [],
+        "contact": {
+            "name": null,
+            "address": "",
+            "application_url": null
+        },
+        "agency": {
+            "email_or_url": null
+        },
+        "meta": {
+            "origineOffer": {
+                "origine": "1",
+                "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/209YFCL"
+            },
+            "positions": 1,
+            "handicap_accessible": null,
+            "remote_policy": "Jamais",
+            "sector": "Ingénierie,études techniques",
+            "company_size": "100 à 199 salariés",
+            "naf_code": "71.12B",
+            "urgent": false
+        },
+        "compatibility_score": 0.0,
+        "common_skills": [],
+        "status": "applied"
+    }
+]
